@@ -214,6 +214,8 @@ CS-22	Recargar la pagina estando en el filtro Completed
 
 CS-23	Entrar a editar una tarea y recargar sin guardar el texto
 
+**LINK AL INFORME DE PRUEBAS Y REPORTE DE BUGS: https://docs.google.com/spreadsheets/d/1sWZbln7xEskt_cOEuXbbkZNWmpyQlu4aWncjUxiNfwc/edit?usp=sharing ** 
+
 
 
 \---
